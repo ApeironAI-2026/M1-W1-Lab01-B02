@@ -42,7 +42,7 @@ Cups_Sold = 99         # a DIFFERENT jar -- the capitals matter!
 print(cups_sold)
 print(Cups_Sold)
 
-# The class demo wrote this jar as marathonMiles. Python allows
+# In class this jar was written as marathonMiles. Python allows
 # that, but our house style is snake_case: all lowercase words
 # joined by underscores.
 marathon_miles = 26.2

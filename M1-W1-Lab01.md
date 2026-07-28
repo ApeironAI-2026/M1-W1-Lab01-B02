@@ -462,7 +462,7 @@ NameError: name 'Cups_Sold' is not defined. Did you mean: 'cups_sold'?
 
 🎤 **Try it yourself (30 seconds):** Delete the `Cups_Sold = 99` line, save, and rerun to meet your first `NameError` face to face. Read the last line. Then put the line back.
 
-> 📌 **From the class demo:** the marathon example was written `marathonMiles` and `marathonKm`, with capital letters in the middle. Python allows that style, and you will see it in the wild. **This course uses `snake_case`** — so in your script it appears as `marathon_miles` and `marathon_km`. Same maths, house style:
+> 📌 **From the class session:** the marathon example was written `marathonMiles` and `marathonKm`, with capital letters in the middle. Python allows that style, and you will see it in the wild. **This course uses `snake_case`** — so in your script it appears as `marathon_miles` and `marathon_km`. Same maths, house style:
 >
 > ```python
 > marathon_miles = 26.2

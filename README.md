@@ -185,4 +185,6 @@ Still stuck after a genuine try? Post in the course channel with **what you ran*
 
 ---
 
-*Apeiron AI Training Academy · Module 1, Week 1, Lab 01 · Next up: [Lab02 — The Cozy Bean Gets Busy](../Lab02/)*
+*Apeiron AI Training Academy · Module 1, Week 1, Lab 01 · Next up: [Lab02 — The Cozy Bean Gets Busy](https://github.com/ApeironAI-2026/M1-W1-Lab02-B02)*
+
+> 🔗 Lab02 is a **separate repo** with its own GitHub Classroom link in Google Classroom. Clone it into `AperionAI/Module1/Week1/Lab02`, right next to this one.

@@ -145,7 +145,7 @@ If you see that, you are ready. Open [`M1-W1-Lab01.md`](M1-W1-Lab01.md) and begi
 
 Suggested rhythm: read a STEP → run the matching script in `scripts/` → do the 30-second tweak → and after each cluster, do the matching problem in `practice/`.
 
-> 🛋️ **Split this lab across two or three sittings.** All in one go is too much for anybody's brain and you will remember far less. A good place to stop is after any 🧠 Quick Quiz.
+> 🛋️ **Aim for one sitting of about an hour.** If you do need to pause, stop after any 🧠 Quick Quiz — that is always a clean break.
 
 ---
 
@@ -159,7 +159,7 @@ git commit -m "Finished Cluster C"
 git push
 ```
 
-Do that at the end of each sitting. If it is your first ever push, git may ask who you are — answer once and it remembers:
+Do that when you finish, or any time you pause. If it is your first ever push, git may ask who you are — answer once and it remembers:
 
 ```text
 git config --global user.name "Your Name"

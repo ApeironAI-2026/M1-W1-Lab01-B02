@@ -8,10 +8,10 @@
 | **Module** | M1: AI/ML Fundamentals |
 | **Week** | Week 1 |
 | **Lab** | Lab01 - Opening Week at The Cozy Bean |
-| **Duration** | **≈ 1 hours** of lab work (one-time setup **not** counted) |
+| **Duration** | **≈ 1 hour** of lab work (one-time setup **not** counted) |
 | **Difficulty** | ⭐ Absolute Beginner - no experience assumed, none at all |
 
-> 🛋️ **Please split this lab across two or three sittings.** All in one go is too much for anybody's brain, and you will remember far less. A good place to stop is after any 🧠 Quick Quiz. Your shop will still be here tomorrow.
+> 🛋️ **Aim for one sitting of about an hour.** If you do need to pause, stop after any 🧠 Quick Quiz — that is always a clean break. Your shop will still be here tomorrow.
 
 ### What you learned in class (and will now make your own)
 
@@ -69,7 +69,7 @@ By the end of this lab you will be able to:
 
 ---
 
-## 3. 🔧 Before You Start (one-time setup - not counted in the 1 hours)
+## 3. 🔧 Before You Start (one-time setup - not counted in the 1 hour)
 
 Take your time here. Everyone does this once, and then never again.
 

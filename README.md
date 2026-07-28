@@ -1,6 +1,6 @@
 # ☕ M1-W1-Lab01 — Opening Week at The Cozy Bean
 
-**Apeiron AI Training Academy** · *"Boundless Possibilities, Infinite Potential"*
+**Aperion AI Training Academy** · *"Boundless Possibilities, Infinite Potential"*
 
 | | |
 |---|---|
@@ -49,7 +49,7 @@ Put `AperionAI` somewhere you will find it again — your home folder, Documents
 2. Make sure the **HTTPS** tab is selected.
 3. Click the 📋 copy icon next to the address.
 
-You now have something like `https://github.com/ApeironAI-2026/M1-W1-Lab01-B02-<your-username>.git` on your clipboard. **That address is yours** — the `<your-username>` part is what makes it yours, so use your own and not a classmate's.
+You now have something like `https://github.com/AperionAI-2026/M1-W1-Lab01-B02-<your-username>.git` on your clipboard. **That address is yours** — the `<your-username>` part is what makes it yours, so use your own and not a classmate's.
 
 ### 1.3 Clone it into `Week1/Lab01`
 
@@ -185,6 +185,6 @@ Still stuck after a genuine try? Post in the course channel with **what you ran*
 
 ---
 
-*Apeiron AI Training Academy · Module 1, Week 1, Lab 01 · Next up: [Lab02 — The Cozy Bean Gets Busy](https://github.com/ApeironAI-2026/M1-W1-Lab02-B02)*
+*Aperion AI Training Academy · Module 1, Week 1, Lab 01 · Next up: [Lab02 — The Cozy Bean Gets Busy](https://github.com/AperionAI-2026/M1-W1-Lab02-B02)*
 
 > 🔗 Lab02 is a **separate repo** with its own GitHub Classroom link in Google Classroom. Clone it into `AperionAI/Module1/Week1/Lab02`, right next to this one.
